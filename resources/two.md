@@ -1,10 +1,3 @@
----
-title: First Resource
-description: Content for first resource.
----
+# Second Resource
 
-# Seconmd Resource
-
-Content for first awdawd
-
-awdawd
+Content for second resource.

@@ -25,7 +25,7 @@ extraMaterialsList:
 studentDataCollectionRequired: false
 dataset:
   name: cigarettes
-  source: Mendenhall & Sincich, classic textbook dataset
+  source: CourseKata starter datasets v2 — public health teaching set
   variableCount: 4
   variableTypes:
     - numeric

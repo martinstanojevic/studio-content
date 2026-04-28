@@ -14,6 +14,7 @@ learningGoals:
   - Practice constructing a relative frequency table
 topicTags:
   - probability
+  - distributions
   - empirical distribution
   - sampling
 lengthMinutes: 25
